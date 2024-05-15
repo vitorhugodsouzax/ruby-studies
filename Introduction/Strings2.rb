@@ -17,6 +17,7 @@ puts "My total characters is: #{total_characters}"
 
 #posso fazer dessa forma tambem
 
+
 # puts "Enter your first name"
 # first_name = gets.chomp
 # puts "Enter your last name"
