@@ -45,3 +45,15 @@ myhash.each { |k, v| myhash.delete(k) if v > 3 }
 Use select method to display items only if value of the item is odd
 
 myhash.select { |k, v| v.odd? }
+
+===========================================================================
+
+myhash = { "nome" => "João", "idade" => 30, "cidade" => "São Paulo", "ativo" => true }
+
+# Usando .select para filtrar pares onde o valor é uma String
+selected_hash = myhash.select { |k, v| v.is_a?(String) }
+
+puts selected_hash
+
+output
+{"nome"=>"João", "cidade"=>"São Paulo"}
