@@ -6,10 +6,7 @@ Welcome to my Ruby studies repository. This repository contains various exercise
 
 - [Introduction](#introduction)
 - [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
 - [Projects](#projects)
-- [Resources](#resources)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
