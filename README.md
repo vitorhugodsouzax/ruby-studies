@@ -2,6 +2,16 @@
 
 Welcome to my Ruby studies repository. This repository contains various exercises, projects, and notes as I learn and explore the Ruby programming language.
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Setup and Installation](#setup-and-installation)
+- [Usage](#usage)
+- [Projects](#projects)
+- [Resources](#resources)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Introduction
 
 This repository is a collection of my personal studies and experiments with Ruby. It includes code samples, exercises from books and online courses, and small projects to practice and demonstrate Ruby programming concepts.
